@@ -1,7 +1,7 @@
 I am Javier Hernandez
 👋 Welcome to my GitHub!
 Find me on [LinkedIn](https://www.linkedin.com/in/javier-hernandez-75919412a/).
-View my Portfolio [here]([https://app.netlify.com/sites/deft-monstera-89f81d/overview](https://deft-monstera-89f81d.netlify.app/)).
+View my Portfolio [here](https://deft-monstera-89f81d.netlify.app/).
 
 My goal is to work on the biggest project I can. I am a driven software engineer with a strong passion for developing innovative solutions and a commitment to continuous learning. Skilled in troubleshooting and problem-solving, I thrive on tackling complex technical challenges and delivering efficient, clean code.
 
