@@ -7,7 +7,7 @@ My goal is to work on the biggest project I can. I am a driven software engineer
 
 With a solid foundation in both software development and technical support, I excel in collaborating with cross-functional teams to enhance product functionality and improve user experience. I also have a proven record of exceptional teamwork, communication, and real-world experience in co-creating and deploying a consumer tech startup.
 
-Hobbies & Future Projects:
+Hobbies:
 I enjoy building and flying racing drones, and I also collect historical coins. My oldest coin is from 136AD and features Marcus Aurelius on the face.
 
 Future Project:
