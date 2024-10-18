@@ -15,4 +15,6 @@ Future Project:
 I plan to build a radio relay system using drones to extend the range of a particular drone.
 
 💻 Live Portfolio
-Check out my live project portfolio here.
+Check out my live project portfolio [here](https://app.netlify.com/sites/deft-monstera-89f81d/overview).
+
+![Hire Me GIF](https://media.giphy.com/media/clnORRzuaBV7rNisCP/giphy.gif)
