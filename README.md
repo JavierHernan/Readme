@@ -1,7 +1,7 @@
-Javier Hernandez
+I am Javier Hernandez
 👋 Welcome to my GitHub!
-Find me on LinkedIn
-View my Portfolio
+Find me on [LinkedIn](https://www.linkedin.com/in/javier-hernandez-75919412a/).
+View my Portfolio [here](https://app.netlify.com/sites/deft-monstera-89f81d/overview).
 About Me
 My goal is to work on the biggest project I can. I am a driven software engineer with a strong passion for developing innovative solutions and a commitment to continuous learning. Skilled in troubleshooting and problem-solving, I thrive on tackling complex technical challenges and delivering efficient, clean code.
 
@@ -9,12 +9,9 @@ With a solid foundation in both software development and technical support, I ex
 
 Hobbies & Future Projects
 Hobbies:
-I enjoy building and flying racing drones, and I also collect historical coins.
+I enjoy building and flying racing drones, and I also collect historical coins. My oldest coin is from 136AD and features Marcus Aurelius on the face.
 
 Future Project:
 I plan to build a radio relay system using drones to extend the range of a particular drone.
-
-💻 Live Portfolio
-Check out my live project portfolio [here](https://app.netlify.com/sites/deft-monstera-89f81d/overview).
 
 ![Hire Me GIF](https://media.giphy.com/media/clnORRzuaBV7rNisCP/giphy.gif)
